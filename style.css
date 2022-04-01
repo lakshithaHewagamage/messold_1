@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/*section 1 stylling*/
+.section_1{
+    display: flex;
+    margin-left:20% ;
+}
+.number_1{
+    flex: 1;
+    margin-top: 50px;
+}
+.number_1 span{
+    font-size: 300%;
+    color: rgb(0, 0, 0,.4);
+}
+.number_1 p{
+    font-size: 40%;
+    padding-left: 25px;
+    color: rgb(0, 0, 0,.6);
+}
+.number_2{
+    margin-top: 50px;
+    flex: 1;
+}
+.number_2 span{
+    font-size: 300%;
+    color: rgb(0, 0, 0,.4);
+}
+.number_2 p{
+    font-size: 40%;
+    padding-left: 25px;
+    color: rgb(0, 0, 0,.6);
+}
+.vertical{
+    margin-top: 20px;
+    height: 120px;
+    border-left: solid 2px rgba(0, 0, 0, 0.2);
+}
+.list{
+    flex: 1;
+    margin-left: 10px;
+}
+.list #third{
+    color: rgb(0, 0, 0,.6);
+    border:solid 1px rgb(0, 0, 0,.6);
+}
+.text{
+    margin-top: 20px;
+    font-size: 5px;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0,.5);
+}
+.numbers{
+    color: rgb(0, 0, 0,.3);
+    width: 10px;
+    text-align: center;
+    font-size:8px ;
+    margin: 4px;
+    border: solid 1px rgb(0, 0, 0,.2);
+    border-radius: 50%;
+}
+
+/*section 2 sylling*/
+.section_2{
+    display: flex;
+    margin-left:35% ;
+}
+.number_3{
+    margin-top: 5%;
+}
+.number_3 span{
+    font-size: 300%;
+    color: rgb(0, 0, 0,.4);
+}
+.number_3 p{
+    font-size: 40%;
+    padding-left: 25px;
+    color: rgb(0, 0, 0,.6);
+}
+
+/*section 3 stylling*/
+.section_3{
+    display: flex;
+}
+.together1{
+    flex: 1;
+    margin-left:20% ;
+    margin-top: 6%;
+}
+.header{
+    color: rgb(0, 0, 0,.6);
+    font-family: sans-serif, "poppins";
+    font-size: 80%;
+    margin-bottom: 10px;
+}
+.para{
+    font-size: 70%;
+    color: rgb(0, 0, 0,.4);
+    width: 60%;
+}
+.together2{
+    flex: 1;
+    margin-top:8% ;
+}
+.number_4 span{
+    font-size: 300%;
+    color: rgb(0, 0, 0,.4);
+}
+.number_4 p{
+    font-size: 40%;
+    padding-left: 20px;
+    color: rgb(0, 0, 0,.6);
+}
+.number_5{
+    margin-top: 20px;
+}
+.number_5 span{
+    font-size: 300%;
+    color: rgb(0, 0, 0,.4);
+}
+.number_5 p{
+    font-size: 40%;
+    padding-left: 20px;
+    color: rgb(0, 0, 0,.6);
+}
